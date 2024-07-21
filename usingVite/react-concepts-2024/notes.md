@@ -1,0 +1,1 @@
+- All the components will be created inside the /src folder

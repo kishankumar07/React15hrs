@@ -54,15 +54,6 @@ console.log(id,name)
 
 
 
-
-
-
-
-
-
-
-
-
 //fetch operation to get dummy products and rendering to html
 let elemLists = document.querySelector('.list-of-elements');
  
